@@ -89,7 +89,7 @@ body, html{
     .section .section-content{
         position: absolute;
         margin: auto;
-        height: 60%;
+        height: 80%;
         top: 0;
         bottom: 0;
     }
@@ -110,6 +110,7 @@ body, html{
         font-size: 25px;
         font-weight: 200;
     }
+
 .section1{
     top: 100%;
     background-color: #34bc98;
