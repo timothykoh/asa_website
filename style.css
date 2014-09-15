@@ -9,7 +9,7 @@ body, html{
     width: 100%;
     left: 0;
     top: 0;
-    background-image: url("images/cmu_bg.jpg");
+    background-image: url("images/asa_bg.jpg");
     background-size: cover;
     background-position: bottom;
     z-index: -1;
@@ -20,7 +20,7 @@ body, html{
     width: 100%;
     left: 0;
     top: 0;
-    background-color: rgba(0,0,0,0.2);
+    background-color: rgba(0,0,0,0.6);
     z-index: -1;
 }
 
@@ -197,6 +197,6 @@ body, html{
 .empty-buffer{
     position: absolute;
     width: 100%;
-    height: 30%;
+    height: 34%;
     top: 500%;
 }
