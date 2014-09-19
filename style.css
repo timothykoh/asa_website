@@ -153,6 +153,21 @@ body, html{
         color: #67809F;
     }
 
+.section5{
+    background-color: #0f0f0f;
+    top: 500%;
+}
+    .section5 h1{
+        color: #c0c0c0;
+        margin-bottom: 50px;
+    }
+    .section5 p{
+        color: #67809F;
+    }
+    .section > div{
+        width: 100%;
+    }
+
 .img-block{
     display: inline-block;
     text-align: center;
@@ -198,5 +213,44 @@ body, html{
     position: absolute;
     width: 100%;
     height: 34%;
-    top: 500%;
+    top: 600%;
 }
+
+.contact-info-block{
+    display: inline-block;
+    margin-top: 30px;
+}
+    .contact-info-block h2{
+        color: #808080;
+        font-size: 25px;
+        margin-bottom: 10px;
+    }
+    .contact-info-block h3{
+        color: #808080;
+        font-size: 18px;
+        margin-bottom: 20px;
+    }
+    .contact-info-block img{
+        width: 300px;
+        height: 300px;
+        border-radius: 150px;
+        margin-bottom: 20px;
+        margin-left: 40px;
+        margin-right: 40px;
+    }
+    .contact-info-block i{
+        font-size: 30px;
+        height: 50px;
+        width: 50px;
+        border-radius: 25px;
+        line-height: 50px;
+        color: #202020;
+        background-color: #606060;
+        cursor: pointer;
+        margin-right: 3px;
+        margin-left: 3px;
+    }
+    .contact-info-block i:hover{
+        color: #0d0d0d;
+        background-color: #505050;
+    }
